@@ -6,7 +6,7 @@ Contains configuration files - for zsh, neovim, and tmux.
 
 * Clone the repository [[dot-files]](https://github.com/dev-gsm/dot-files.git) in `$HOME` directory.
 ```console
-git clone https://github.com/gs-bitbyter/dot-files.git $HOME
+git clone https://github.com/dev-gsm/dot-files.git $HOME
 ```
 
 #### ZSH Setup
